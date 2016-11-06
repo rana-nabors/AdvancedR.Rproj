@@ -17,3 +17,7 @@ fah_to_celsius <-function(temp){
   result <-kel_to_cel(temp_k)
   return(result)
 }
+
+
+
+
